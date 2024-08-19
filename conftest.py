@@ -1,6 +1,6 @@
 import pytest
 from praktikum.burger import Burger
-from test.test_burger import MockBun
+from data import MockBun
 
 
 @pytest.fixture
